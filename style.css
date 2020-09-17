@@ -1,0 +1,35 @@
+@charset "utf-8";
+body p1 {
+    color: #920002;
+    border-bottom-width: medium;
+    border-bottom-style: none;
+}
+header {
+}
+
+body h2 {
+    color: #AF0000;
+    border-top: medium solid #420001;
+}
+
+body {
+    padding-left: 200px;
+    margin-left: 180px;
+    padding-top: 0px;
+    background-color: #00AA13;
+    padding-right: 200px;
+    margin-right: 180px;
+    border: medium solid #420001;
+    border-top-left-radius: 0px;
+}
+header h1 {
+    color: #AF0000;
+    border-bottom: medium solid #420001;
+}
+body img1 img {
+    float: right;
+    margin-top: 5px;
+}
+body h3 {
+    color: #7E0000;
+}
