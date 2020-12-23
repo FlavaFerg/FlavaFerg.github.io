@@ -1,6 +1,6 @@
 @charset "utf-8";
 body p1 {
-    color: #920002;
+    color: #a8dadc;
     border-bottom-width: medium;
     border-bottom-style: none;
 }
@@ -8,28 +8,31 @@ header {
 }
 
 body h2 {
-    color: #AF0000;
-    border-top: medium solid #420001;
+    color: #e63946;
+    border-top: medium solid #457b9d;
 }
 
 body {
-    padding-left: 200px;
+    padding-left: 50px;
     margin-left: 180px;
     padding-top: 0px;
-    background-color: #00AA13;
-    padding-right: 200px;
+    background-color: #1d3557;
+    padding-right: 50px;
     margin-right: 180px;
-    border: medium solid #420001;
+    border: medium solid #457b9d;
     border-top-left-radius: 0px;
 }
+footer {
+    color: #f1faee;
+}
 header h1 {
-    color: #AF0000;
-    border-bottom: medium solid #420001;
+    color: #e63946;
+    border-bottom: medium solid #457b9d;
 }
 body img1 img {
     float: right;
     margin-top: 5px;
 }
 body h3 {
-    color: #7E0000;
+    color: #e63946;
 }
