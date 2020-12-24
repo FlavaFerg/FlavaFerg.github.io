@@ -13,14 +13,13 @@ body h2 {
 }
 
 body {
-    padding-left: 50px;
-    margin-left: 180px;
-    padding-top: 0px;
+    margin: auto;
     background-color: #1d3557;
-    padding-right: 50px;
-    margin-right: 180px;
     border: medium solid #457b9d;
     border-top-left-radius: 0px;
+    max-width: 800px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 footer {
     color: #f1faee;
